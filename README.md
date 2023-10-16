@@ -29,9 +29,8 @@ I'm a college student at University of Maryland: Baltimore County studying for a
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RyderReed15&theme=dark&background=222)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyderReed15&layout=compact&theme=vision-friendly-dark&bg_color=222)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RyderReed15&theme=dark&background=22222200&hide_current_streak=true)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyderReed15&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
