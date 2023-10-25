@@ -6,7 +6,7 @@ I'm a college student at University of Maryland: Baltimore County studying for a
 
 - :telescope: I aspire to be Software Engineer/Developer in the Aerospace field.
 
-- :seedling: Working on learning Swedish.
+- :seedling: Working on learning React.
 
 - :zap: In my free time, I work on personal projects or learn about technological history.
 
