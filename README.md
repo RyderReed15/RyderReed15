@@ -1,6 +1,6 @@
 ### Hi there, I'm Ryder 👋
 
-### :man_technologist: About Me :
+### About Me :
 
 I'm a college student at University of Maryland: Baltimore County studying for a BS in Computer Science.
 
@@ -11,7 +11,7 @@ I'm a college student at University of Maryland: Baltimore County studying for a
 - :zap: In my free time, I work on personal projects or learn about technological history.
 
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -27,7 +27,7 @@ I'm a college student at University of Maryland: Baltimore County studying for a
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence"  alt="Confluence" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RyderReed15&theme=dark&background=22222200&hide_current_streak=true)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyderReed15&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
