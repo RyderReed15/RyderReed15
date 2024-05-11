@@ -2,14 +2,9 @@
 
 ### About Me :
 
-I'm a college student at University of Maryland: Baltimore County studying for a BS in Computer Science.
+I am a dedicated and versatile software engineer with a passion for creating innovative solutions and enhancing user experiences. With a Bachelor of Science in Computer Science and a Certificate in Cybersecurity from the University of Maryland, Baltimore County, I have developed a strong foundation in programming, spanning a range of programming languages including C++, React, JavaScript, Python, SQL, and more. 
 
-- :telescope: I aspire to be Software Engineer/Developer in the Aerospace field.
-
-- :seedling: Working on learning React.
-
-- :zap: In my free time, I work on personal projects or learn about technological history.
-
+I have a very strong interest in the aerospace field and hope to someday have an accomplished career as a software developer in the industry.
 
 ### Languages and Tools :
 
@@ -35,6 +30,9 @@ I'm a college student at University of Maryland: Baltimore County studying for a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyderReed15&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+### Contact :
+
+Feel free to reach out to me via email at ryderareed@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ryderareed/).
 <!--
 **RyderReed15/RyderReed15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
